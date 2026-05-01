@@ -2,7 +2,7 @@
 
 > An open YAML specification for AI-ready data products. The semantic foundation for Agentic AI on enterprise data.
 
-[![Spec: Draft](https://img.shields.io/badge/Spec-Draft%20v1-orange.svg)]()
+[![Spec: ](https://img.shields.io/badge/Spec-%20v1-orange.svg)]()
 [![Maintained by: Onibex](https://img.shields.io/badge/Maintained%20by-Onibex-black.svg)](https://onibex.com)
 
 ---
