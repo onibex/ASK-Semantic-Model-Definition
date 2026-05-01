@@ -98,7 +98,7 @@ If your Gold "Available-to-Sell" data product is built by a 400-line dbt model, 
 
 ## Quick example
 
-Here is the shape of a Gold Business Logic Data Product (full example: [`examples/gold_ecc_sd_open_order_tracker.yml`](examples/gold_ecc_sd_open_order_tracker.yml)):
+Here is the shape of a Gold Business Logic Data Product (full example: [`examples/gold_ecc_sd_open_order_tracker.yaml`](examples/gold_ecc_sd_open_order_tracker.yaml)):
 
 ```yaml
 id: "gold_ecc_open_order_tracker"
@@ -159,8 +159,8 @@ ASK-Semantic-Model-Definition/
 │   └── BRONZE_LAYER.md                ← Bronze layer specification
 ├── examples/
 │   ├── gold/
-│   │   ├── gold_ecc_sd_open_order_tracker.yml
-│   │   └── gold_ecc_order_tracking_reception.yml
+│   │   ├── gold_ecc_sd_open_order_tracker.yaml
+│   │   └── gold_ecc_order_tracking_reception.yaml
 │   ├── silver/
 │   │   ├── sales_order.yaml
 │   │   └── trading_goods.yaml
